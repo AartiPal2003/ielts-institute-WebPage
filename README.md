@@ -1,16 +1,52 @@
-# React + Vite
+# IELTS Institute Home Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **Home Page** for a fictional IELTS Institute, built using **React JS**, **Vue JS**, and **Tailwind CSS**. The goal of this assignment was to create a modern, professional, and responsive design that works well on both desktop and mobile devices.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## React Compiler
+- **Navbar**: Clean navigation with logo and menu links. Fully responsive for mobile and desktop.  
+- **Hero Section**: Eye-catching headline with typing animation, subtext, a call-to-action button, and a hero image/banner.  
+- **Feature Cards**: Highlights key offerings like Speaking Practice, Mock Tests, and AI Band Score.  
+- **Student Testimonials**: Showcases 2–3 student reviews to add credibility.  
+- **Footer**: Basic contact info and links.  
+- **Responsive Design**: All sections adjust smoothly on different screen sizes.  
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React JS** – Component-based structure for modular and reusable code  
+- **Vue JS** – For interactive components where needed  
+- **Tailwind CSS** – Quick styling with responsive design  
+- **Framer Motion** – Animations for buttons and interactive elements  
+- **React Type Animation** – Typing effect in the Hero section  
+
+---
+
+## Setup Instructions
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/AartiPal2003/ielts-institute-WebPage.git
+
+
+Navigate into the project folder:
+
+cd ielts-institute-WebPage
+
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
+npm run dev
+
+
+The website will open automatically at http://localhost:5173/#home
+
